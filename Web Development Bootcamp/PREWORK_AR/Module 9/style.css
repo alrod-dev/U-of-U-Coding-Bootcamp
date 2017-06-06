@@ -1,0 +1,66 @@
+/**
+ * Alfredo Rodriguez
+ * Date: 5/21/2017
+ */
+
+h1 {
+    text-align: center;
+
+}
+
+h2 {
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.red {
+    color: red;
+}
+
+.blue {
+    color: blue;
+}
+
+.green {
+    color: green;
+}
+
+.styledFont{
+    color:green;
+}
+
+.bold
+{
+    font-weight: bold;
+}
+
+.center{
+    text-align: center;
+}
+
+.big{
+    font-size: 30px;
+}
+
+.tiny{
+    font-size: 10px;
+}
+
+.multipleChanges
+{
+    font-size: 25px;
+    font-weight: bold;
+    color: orange;
+}
+
+.fontChange
+{
+    font-family: Cambria;
+}
+
+img
+{
+    padding:5px;
+    border:5px solid #021a40;
+    background-color:#ff0;
+}
